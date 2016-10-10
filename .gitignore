@@ -1,0 +1,8 @@
+.vs/
+superior-mean-jwt.njsproj
+bin/
+node_modules/
+obj/
+public/libs/
+superior-mean-jwt.sln
+typings/
